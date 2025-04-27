@@ -1,0 +1,27 @@
+.GenerateAudioPage {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    gap: 20px
+}
+
+.UploadLayout {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.UploadInput {
+    display: flex;
+    flex-direction: column;
+}
+
+.InputTextLayout {
+    display: flex;
+    flex-direction: column;
+}
+
+.DownloadLayout {
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,6 @@
+export enum DOWNLOAD_STATUS {
+    DONE = 'DOWNLOADED',
+    LOADING = 'LOADING',
+    FAILED = 'FAILED',
+    UNDEFINED = 'UNDEFINED'
+}
